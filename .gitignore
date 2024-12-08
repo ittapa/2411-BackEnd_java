@@ -100,3 +100,13 @@ replay_pid*
 
 ### env 프로퍼티 파일
 src/main/resources/env.properties
+
+
+
+##
+.classpath
+.project
+.settings/
+target/
+*/target/*
+*/target/**
