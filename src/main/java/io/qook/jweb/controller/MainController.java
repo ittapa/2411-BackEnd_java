@@ -10,6 +10,6 @@ public class MainController {
 	
 	@GetMapping("/")
     public String Main() {
-        return "redirect:/index.html"; 
+        return "redirect:/users"; 
     }
 }
